@@ -1,0 +1,1 @@
+Zhong Guo Xiang Qi is an English language version of Chinese Chess, created in Java using Java 3D.  This project is intended to include both a one player mode, with decent computer AI, and a two player mode that allows you to play over the internet.
